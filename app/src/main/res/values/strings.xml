@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DOGS</string>
+    <string name="error_loading">Произошла Ошибка</string>
 </resources>
